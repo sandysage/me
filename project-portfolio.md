@@ -1,4 +1,4 @@
-# Client: National Center for Biotechnology Information (NCBI) -- division of the National Institutes of Health (NIH)
+# Client: [NCBI](http://www.ncbi.nlm.nih.gov/)
 ## Project: Implement custom editorial interface with XML validation in the [Scholarly publishing Annotum WordPress theme](http://annotum.org/)
 
 - Timeline: Initiated 10/2013 --> Completed 8/2014
